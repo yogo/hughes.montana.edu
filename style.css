@@ -1,0 +1,157 @@
+/*  
+Theme Name: Blog.MSU Home
+Theme URI: http://blog.montana.edu/
+Description: This theme is for the homepage of Blog.MSU
+Version: 1.0
+Author: Web Services
+Author URI: http://www.montana.edu/wwwitc
+
+*/
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.sidebar {
+	width: 150px;
+	padding: 0px;
+}
+.sidebar a:visited {
+	color: #001155;
+}
+.widgettitle {
+	margin: 0px;
+	padding: 0px;
+}
+.widget {
+	padding: 0px;
+	padding-top: 5px;
+	margin: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	list-style-type: none;
+}
+.widget li {
+	padding: 0px;
+	margin: 2px;
+	margin-left: 10px;
+	list-style-type: none;
+	line-height: 11px;
+}
+input[type=submit] {
+	margin-top:5px;
+}
+img#header {
+	margin-right: auto;
+	margin-left: auto;
+	vertical-align:text-bottom;
+}
+div.entry {
+	margin-top: 5px;
+	margin-bottom:15px;
+}
+.post {
+	border-bottom:2px dotted #ccc;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+.post h3 {
+	display:inline;
+	padding-right:15px;
+}
+.post p {
+	margin-top: 10px;	
+}
+.post a:link {
+}
+.post a:hover, .post a:visited {
+	color: #015;
+	text-decoration:none;
+}
+.post ul {
+}
+.post h2 {
+	margin-top: 10px;
+}
+.post li {
+	margin-left: 20px;
+}
+.post code {
+	display:block;
+	background-color: #EBEBEB;
+	color: #000;
+	text-align:left;
+	border : 2px dotted #000; 
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 350px;  
+	font-family: 'andale mono','Courier New', Monaco, monospace;
+	overflow : auto;
+}
+.post .more-link {
+	font-weight: bold;
+}
+small {
+	color:#999999; 
+}
+textarea#comment {
+	width: 100%;
+}
+.alt {
+	background-color: #F2F2F2;
+}
+#headerImageContainer {
+	padding: 10px;
+	background-image: url(http://blog.montana.edu/wp-content/themes/home/images/image.php);
+	width: 100%; 
+	height: 130px;
+}
+#pageTitle {
+	margin-top: 10px;
+	width: 100%;
+	color: #FFFFFF;
+	font-size: 24px;
+	font-weight: bold;
+	text-decoration: none;
+}
+#pageTitle a {
+	color: #FC5;
+	text-decoration: none;
+	line-height: 26px;
+}
+#pageTitle a:hover {
+	color: #FFFFFF;
+}
+li#search {
+	margin-top: 15px;
+}
+#MSUnavbar a:link {
+	border: none;
+	padding: 0px !important;
+	margin: 0px !important;
+	text-decoration: none;
+}
+#MSUnavbar a:hover {
+	border: none;
+	padding: 0px !important;
+	margin: 0px !important;
+	text-decoration: none;
+}
+#MSUnavbar a:visited {
+	border: none;
+	padding: 0px !important;
+	margin: 0px !important;
+	text-decoration: none;
+}
+div.MSUnavbar {
+	border: none;
+	height: 1px;
+}
+.MSUbox {
+}
+MSUcontactusbox {
+	width: 50px !important;
+}
+.socialhomes img {
+	border: none;
+}
