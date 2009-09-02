@@ -58,16 +58,6 @@
                <tr>
           <td valign="bottom" align="left" id="MSUregviewlink" nowrap><a href="http://www.montana.edu/msucommon/css/styles.css" onclick="setActiveStyleSheet('styles'); return false;">Return to regular view</a></td>
                 <td valign="bottom" align="left" class="MSUtextOnly" id="MSUtextOnly"><a href="http://www.montana.edu/msucommon/css/textonly.css" onclick="setActiveStyleSheet('textonly'); return false;"><img src="http://www.montana.edu/msucommon/images/textonly.jpg" border="0" alt="View Text-only Version" align="bottom" vspace="0"></a>&nbsp;<a href="http://www.montana.edu/msucommon/css/textonly.css" onclick="setActiveStyleSheet('textonly'); return false;">Text-only</a></td>
-                <td valign="bottom" align="right" class="font11" nowrap>Updated:
-<!------------------------>
-<!-- Begin Update Date  -->
-<!------------------------>
-1/10/2006
-<!-------------------->
-<!-- End Update Date-->
-
-<!-------------------->
-                </td>
                </tr>
 <!-- BEGIN BRANDED CONTENT DO NOT EDIT -->
                <tr>
