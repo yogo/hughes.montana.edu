@@ -71,7 +71,7 @@
 <!------------------------>
 <!-- Insert Header Image-->
 <!------------------------>
-<div id="headerImageContainer"><span id="pageTitle"><a href="<? bloginfo('url') ?>"><? bloginfo('name'); ?></a></span></div>
+<span id="pageTitle"><a href="<? bloginfo('url') ?>"><? bloginfo('name'); ?></a></span>
 <!---------------------------->
 <!-- End Insert Header Image-->
 <!---------------------------->
