@@ -21,6 +21,7 @@
   <!--[if lt IE 7]>
   <script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js" type="text/javascript"></script>
   <![endif]-->
+  <? wp_head() ?>
  </head>
  <body class="MSUbodyfixed" id="MSUbodyfixed">
 

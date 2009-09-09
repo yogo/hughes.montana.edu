@@ -2,7 +2,7 @@
 <!-------------------->
 <!--Department Title-->
 <!-------------------->
-<a href="http://www.montana.edu/commserv" class="departmentTitle"><? bloginfo('title'); ?></a>
+<a href="http://www.montana.edu/commserv" class="departmentTitle"><? bloginfo('title'); ?></a> > News
 <br />
 <?php if (have_posts()) : ?>
 
